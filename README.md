@@ -20,3 +20,9 @@
 - NetflixGPT
     -searchbar
     --movie suggestion
+
+
+
+git remote add origin https://github.com/ayush1000k/NetflixGPT.git
+git branch -M main
+git push -u origin main
